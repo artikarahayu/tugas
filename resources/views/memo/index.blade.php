@@ -18,7 +18,7 @@
                     <a href="/memo/create" class="btn btn-success">Tambah Data</a>
                 </div>
                 <div>
-                    <a href="/logout" class="btn btn-danger">Logout</a>
+                    <a href="/logout" class="btn btn-danger">Logout</a> 
                 </div>
             </div>
         </header>
